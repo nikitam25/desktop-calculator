@@ -1,5 +1,5 @@
 # desktop-calculator
-A pretty little desktop calculator
+A pretty little desktop calculator using python and the tkinter package  
 
 # UI
 The calculator looks like this:
